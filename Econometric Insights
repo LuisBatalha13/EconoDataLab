@@ -1,0 +1,36 @@
+# 🌍 **Econometric Insights Lab** – Data Science Meets Econometrics
+**Projetos Avançados de Modelagem, Previsão e Análise Econômica Global**  
+
+Este repositório reúne **8 projetos autorais e inovadores** que combinam **Econometria, Machine Learning, Séries Temporais, Finanças Quantitativas e Econofísica** para resolver problemas econômicos do mundo real.  
+Voltado para **pesquisadores, analistas financeiros, consultores econômicos e recrutadores** que buscam profissionais capazes de unir **rigor técnico** e **criatividade aplicada**.  
+
+---
+
+## 📌 **Destaques**
+- 📈 **Modelos de Séries Temporais Avançados** – ARIMA, GARCH, LSTM e modelos híbridos para previsão econômica.  
+- 🏛 **Análise de Impacto de Políticas Econômicas** – estimativas causais com dados reais.  
+- ⚛ **Econometria Dinâmica e Econofísica** – simulações com conceitos *overdamped*, *underdamped* e *critically damped*, incorporando memória curta e longa.  
+- 📊 **Dashboards Interativos** – visualizações em **Power BI** e **Plotly** para decisões baseadas em dados.  
+
+---
+
+## 🚀 **Tecnologias Utilizadas**
+- **Linguagens & Bibliotecas:** Python (pandas, numpy, statsmodels, scikit-learn, matplotlib, plotly)  
+- **Ferramentas Econométricas:** EViews, Stata  
+- **Machine Learning:** XGBoost, LSTM, Prophet  
+- **Data Visualization:** Power BI, Plotly, Seaborn  
+
+---
+
+## 🎯 **Objetivo**
+Criar soluções **baseadas em dados** para:
+- Antecipar tendências econômicas  
+- Otimizar políticas públicas  
+- Apoiar estratégias empresariais  
+- **Demonstrar habilidades técnicas** que atendam ao padrão de recrutamento **internacional**  
+
+💡 *"Economia é arte e ciência. Aqui, unimos teoria, dados e criatividade para criar modelos que não apenas explicam o passado, mas moldam o futuro."*  
+
+---
+
+## 📂 **Estrutura do Repositório**
